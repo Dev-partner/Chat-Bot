@@ -1,2 +1,2 @@
 # Chat-Bot
-Chat Partner
+Chat Partner ควย
